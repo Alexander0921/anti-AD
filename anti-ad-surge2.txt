@@ -6533,7 +6533,6 @@
 .anti-bot.baidu.com
 .as1.wenku.baidu.com
 .baifen.music.baidu.com
-.boxer.baidu.com
 .browserkernel.baidu.com
 .bzclk.baidu.com
 .caclick.baidu.com
