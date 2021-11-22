@@ -21617,7 +21617,6 @@
 .imrtrack.com
 .imrworldwide.com
 .imstks.com
-.imtmp.net
 .imtwjwoasak.com
 .cdn.imvkan.com
 .metrics.imvu.com
